@@ -33,7 +33,7 @@ export const navlink = [
 export const home = [
   {
     text: "HELLO I'M",
-    name: "Zarnigor Asatova",
+    name: "",
     post: "Web developer",
     design: "Front-end  developer",
     desc: "A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product",
